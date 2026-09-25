@@ -18,7 +18,7 @@ public class App implements ActionListener
 
     public App() 
     {
-        frame = new JFrame("Simple Calculator");
+        frame = new JFrame("Simple Cal");
         frame.setSize(500, 350);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
